@@ -8,5 +8,10 @@ Anggota Kelompok 6 :
 - Ahmad Riadi      2009106115
 
 judul : Vehicle Detection
+
 datasets : https://www.kaggle.com/datasets/brsdincer/vehicle-detection-image-set
+
+Splitting Data  : 0.7 Train > 0.21 Validation > 0.09 Test
+
+
 
